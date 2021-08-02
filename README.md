@@ -1,5 +1,5 @@
 # badapple
-compile th c file with:
+badapple op in terminal compile the c file with:
 
 	gcc badapple.c -o badapple
 
